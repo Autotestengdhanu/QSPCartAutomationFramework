@@ -11,6 +11,11 @@ public class SampleTest {
 			System.out.println("Cart is added successfully");
 		 }
 
+		@Test
+		public void deleteCartTest()
+		{
+			System.out.println("Cart deleted ");
+		}
 	}
 
 
