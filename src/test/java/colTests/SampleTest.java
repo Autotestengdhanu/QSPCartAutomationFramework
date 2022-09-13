@@ -10,6 +10,12 @@ public class SampleTest {
 		 {
 			System.out.println("Cart is added successfully");
 		 }
+		
+		@Test
+		public void removeFromTheCartTest()
+		{
+			System.out.println("Cart is removed successfully");
+		}
 
 	}
 
